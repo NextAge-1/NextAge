@@ -1,6 +1,6 @@
 # 🚀 NextAge Projects Hub
 
-> *Building future before it arrives.*
+> *A growing arsenal of code — from school logic to future AI systems.*
 
 ---
 
@@ -107,4 +107,25 @@ NextAge is a future technology company focused on:
 
 **Philosophy:**
 
-> The future isn’t somethi
+> The future isn’t something to wait for — it’s something to engineer.
+
+---
+
+## 👑 Author
+
+**Arisuzawa**
+Student | Tech Enthusiast | Future Founder of NextAge
+
+---
+
+## ⭐ Support
+
+If you like this repository:
+
+* Star ⭐ it
+* Follow the journey
+* Grow with it
+
+---
+
+> *Every expert was once writing their first program. This is where NextAge begins.* ⚡
