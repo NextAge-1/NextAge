@@ -128,4 +128,5 @@ If you like this repository:
 
 ---
 
-> *Every expert was once writing their first program. This is where NextAge begins.* ⚡
+> *Every expert was once writing their first program. This is where NextAge begins.*
+> ## Thank You. 
