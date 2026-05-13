@@ -1,10 +1,10 @@
 # 🚀 NextAge Projects Hub
 
-> *A growing arsenal of code — from school logic to future AI systems.*
+> *Creating future before it arrives.*
 
 ---
 
-## 🌌 Vision
+## Our Vision
 
 NextAge is not just a single project. It is a **collection of evolving systems** built with one goal:
 
@@ -14,11 +14,11 @@ From simple programs to advanced AI, every project here is a step toward buildin
 
 ---
 
-## 🧠 About This Repository
+## About This Repository
 
 This repository contains multiple categories of projects:
 
-### 📘 School Programs
+### School Programs
 
 Core programming logic and foundational concepts.
 
@@ -27,11 +27,11 @@ Core programming logic and foundational concepts.
 * Array-based problems
 * Input/output programs
 
-👉 Purpose: Build strong fundamentals
+Purpose: Build strong fundamentals
 
 ---
 
-### 🤖 AI & Smart Systems
+### AI & Smart Systems
 
 Early-stage intelligent systems and experiments.
 
@@ -39,11 +39,11 @@ Early-stage intelligent systems and experiments.
 * Automation scripts
 * Smart decision-based programs
 
-👉 Purpose: Move toward real-world intelligence
+Purpose: Move toward real-world intelligence
 
 ---
 
-### 🎮 Games
+### Games
 
 Fun but strategic builds that improve logic and design thinking.
 
@@ -51,19 +51,19 @@ Fun but strategic builds that improve logic and design thinking.
 * Logic-driven gameplay
 * Interactive programs
 
-👉 Purpose: Learn by building engaging systems
+Purpose: Learn by building engaging systems
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-* 💻 Languages: Java (main), Python (future expansion)
-* 🛠️ Tools: BlueJ, VS Code, Git
-* 🌐 Platform: GitHub
+*  Languages: Java (main), Python (future expansion)
+*  Tools: BlueJ, VS Code, Git
+*  Platform: GitHub
 
 ---
 
-## 🔥 Key Features
+##  Key Features
 
 * Clean and beginner-friendly code
 * Strong logical structure
@@ -72,7 +72,7 @@ Fun but strategic builds that improve logic and design thinking.
 
 ---
 
-## 📦 How to Run
+##  How to Run
 
 ### For Java Programs:
 
@@ -84,20 +84,20 @@ javac ProgramName.java
 java ProgramName
 ```
 
-Or run directly using **BlueJ**.
+Or run directly using **BlueJ/IntelliJ or any other Java IDE**.
 
 ---
 
-## 🎯 Future Goals
+##  Future Goals
 
-* Build advanced AI systems 🤖
-* Create real-world applications 🌍
-* Develop high-level automation tools ⚙️
-* Expand into full-scale products under **NextAge** 🏢
+* Build advanced AI systems 
+* Create real-world applications 
+* Develop high-level automation tools 
+* Expand into full-scale products under **NextAge** 
 
 ---
 
-## 🏢 About NextAge
+##  About NextAge
 
 NextAge is a future technology company focused on:
 
@@ -111,14 +111,14 @@ NextAge is a future technology company focused on:
 
 ---
 
-## 👑 Author
+##  Author
 
-**Arisuzawa**
+**Ayush Kumar**
 Student | Tech Enthusiast | Future Founder of NextAge
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you like this repository:
 
