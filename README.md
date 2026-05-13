@@ -1,6 +1,6 @@
 # 🚀 NextAge Projects Hub
 
-> *A growing arsenal of code — from school logic to future AI systems.*
+> *Building future before it arrives.*
 
 ---
 
